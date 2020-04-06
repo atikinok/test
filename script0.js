@@ -24,6 +24,11 @@ let persone={
     isMarried:false
 }
 
+let persone1={
+    name:"Max",
+    age:42,
+    isMarried:false
+}
 console.log(persone.name);            
 console.log(persone["name"]);
 
